@@ -37,18 +37,15 @@ This is a Chrome extension developed using React, TypeScript, and Vite. The exte
 
 ### To install the File Uploader Chrome extension, follow these steps
 
-Clone the repository:
-
-`git clone https://github.com/ariburaco/chatgpt-file-uploader`
-
-Navigate to the project directory: cd file-uploader-extension
--Install dependencies: pnpm install
--Start the dev env.: pnpm run build
--Open Google Chrome and go to chrome://extensions.
--Enable the "Developer mode" toggle.
--Click on the "Load unpacked" button.
--Select the dist directory from the project folder.
--The File Uploader extension should now be installed and visible in the extensions list.
+- Clone the repository: `git clone https://github.com/ariburaco/chatgpt-file-uploader`
+- Navigate to the project directory: `cd file-uploader-extension`
+- Install dependencies: `pnpm install`
+- Start the dev env.: `pnpm run build`
+- Open Google Chrome and go to `chrome://extensions`.
+- Enable the "Developer mode" toggle.
+- Click on the "Load unpacked" button.
+- Select the dist directory from the project folder.
+- The File Uploader extension should now be installed and visible in the extensions list.
 
 ### Usage
 
